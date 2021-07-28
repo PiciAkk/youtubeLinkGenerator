@@ -1,6 +1,6 @@
 
-# Facebook Link Generator
-command-line API for generating facebook links
+# YouTube Link Generator
+command-line API for generating youtube links
 
 ## Usage:
 
