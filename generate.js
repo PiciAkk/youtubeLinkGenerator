@@ -10,11 +10,10 @@ if (commandLineArguments.length == 1) {
   process.exit()
 }
 encodedURL = encodeURI(inputURL);
-// QUFFLUhqbDE2MWYtdmdNd3Tdd2dN4UnV0Nk50SXJEN0pljTHJsZ3xBQ3Jtc0trTXRuYzZ5N1U3UU5oTl9QNjRQQi1MOUZzVl9pcUk4WlZ1YVlYcGNDcU1CRzBaMVM1cHo3ZklwTUdCOHYxZWVUS25lLTQ4NVNROWRDenNGWVF4OVBsSHVGcVd5WHcxUzNyUXFZbnpBSHZQZkxpVXF4dw
 for (i = 0; i < 212; i++) {
 	var randomToken;
 	const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-  const charactersLength = characters.length
+  const charactersLength = characters.length;
 	randomToken += characters.charAt(Math.floor(Math.random() * charactersLength));
 }
 randomToken = randomToken.slice(10)
