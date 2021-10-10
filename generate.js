@@ -13,7 +13,7 @@ encodedURL = encodeURI(inputURL);
 for (i = 0; i < 212; i++) {
 	var randomToken;
 	const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-  const charactersLength = characters.length;
+  	const charactersLength = characters.length;
 	randomToken += characters.charAt(Math.floor(Math.random() * charactersLength));
 }
 randomToken = randomToken.slice(10)
