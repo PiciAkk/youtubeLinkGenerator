@@ -1,6 +1,6 @@
 
 # YouTube Link Generator
-command-line API for generating youtube links
+command-line app for generating youtube links
 
 ## Usage:
 
