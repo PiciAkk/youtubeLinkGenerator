@@ -46,6 +46,6 @@ or
 node generate.js
 ```
 ## Origin:
-Basically, this is just a modified version of my [Messenger Link Generator](https://github.com/PiciAkk/messengerLinkGenerator) with Facebook's "redirecting server" 
+Basically, this is just a modified version of my [Messenger Link Generator](https://github.com/PiciAkk/messengerLinkGenerator) with YouTube's "redirecting server" 
 ## Online demo:
 [Click here for online demo](https://replit.com/@PiciAkk/facebookLinkGenerator)
